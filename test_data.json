@@ -1,0 +1,37 @@
+{
+  "cookie": {
+    "BX_USER_ID": "a1882fcf2511f18b25c3d44a060fbd5b",
+    "PHPSESSID": "UUCa41MMTS6cwe7XV1ljcfhyd8R1xkO2",
+    "basketor": "203891",
+    "_ym_d": "1738758049",
+    "_ym_isad": "2",
+    "_ym_uid": "1738758049110091420",
+    "_ym_visorc": "w",
+    "__ym_tab_guid": "58bbf896-b476-b14a-a6d6-441de502b971",
+    "_grecaptcha": "09AGVEItc0rXAsuzjObny5CeyNxRQ_pLrJ719wtywd80NMLyTFiPZ2ZI-ZYbQtwvVXXdTTu9Ta-MRmNpHp9iuApBBfDw3pLBYUlWHfTBXI8BRWqZcbvCt5Ua6M08yMTy44"
+  },
+  "url": "https://www.sibdar-spb.ru/",
+  "url2": "https://www.ya.ru/",
+  "query_prod": {
+    "id_product": 204,
+    "id_cookie": 203891
+  },
+  "type_prod": {
+    "add": {
+      "type": "add"
+    },
+    "plus": {
+      "type": "plus"
+    },
+    "delete":{
+      "type": "delete"
+    }
+  },
+  "timeout": 4,
+  "browser_name": "chrome",
+  "prod_value": "Товар: Грузди соленые Цена: 1920руб 2шт Сумма: 3840руб  Общая сумма: 3840руб",
+  "prod_title": "Грузди соленые",
+  "prod_count": 1920,
+  "empty_cart_notification": "Корзина пуста, необходимо это исправить",
+  "all_count": "Итого: 0 руб"
+}
